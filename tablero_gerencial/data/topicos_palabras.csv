@@ -1,0 +1,151 @@
+topico,rank,palabra,peso,etiqueta
+0,1,comprar,0.0435,comprar / religioso / minero
+0,2,restaurante,0.0342,comprar / religioso / minero
+0,3,precio,0.0282,comprar / religioso / minero
+0,4,recorrido,0.0262,comprar / religioso / minero
+0,5,comida,0.0248,comprar / religioso / minero
+0,6,religioso,0.0228,comprar / religioso / minero
+0,7,entrada,0.0212,comprar / religioso / minero
+0,8,tienda,0.0211,comprar / religioso / minero
+0,9,cafe,0.0208,comprar / religioso / minero
+0,10,espacio,0.0195,comprar / religioso / minero
+0,11,minero,0.0193,comprar / religioso / minero
+0,12,museo,0.0172,comprar / religioso / minero
+0,13,zona,0.0162,comprar / religioso / minero
+0,14,artesania,0.0142,comprar / religioso / minero
+0,15,enorme,0.0134,comprar / religioso / minero
+1,1,tranquilo,0.0443,luz / tranquilo / sentir
+1,2,parque,0.0295,luz / tranquilo / sentir
+1,3,plaza,0.0273,luz / tranquilo / sentir
+1,4,iglesia,0.025,luz / tranquilo / sentir
+1,5,sentir,0.0245,luz / tranquilo / sentir
+1,6,municipio,0.0213,luz / tranquilo / sentir
+1,7,luz,0.019,luz / tranquilo / sentir
+1,8,seguro,0.0172,luz / tranquilo / sentir
+1,9,tipico,0.0163,luz / tranquilo / sentir
+1,10,pequeño,0.0149,luz / tranquilo / sentir
+1,11,año,0.0135,luz / tranquilo / sentir
+1,12,catedral,0.0133,luz / tranquilo / sentir
+1,13,comercio,0.0117,luz / tranquilo / sentir
+1,14,central,0.0108,luz / tranquilo / sentir
+1,15,basico,0.0105,luz / tranquilo / sentir
+2,1,guia,0.0639,"Patrimonio y cultura: guia, catedral sal"
+2,2,historia,0.0535,"Patrimonio y cultura: guia, catedral sal"
+2,3,recorrido,0.0529,"Patrimonio y cultura: guia, catedral sal"
+2,4,impresionante,0.034,"Patrimonio y cultura: guia, catedral sal"
+2,5,mina,0.0329,"Patrimonio y cultura: guia, catedral sal"
+2,6,catedral_sal,0.0317,"Patrimonio y cultura: guia, catedral sal"
+2,7,catedral,0.029,"Patrimonio y cultura: guia, catedral sal"
+2,8,maravilla,0.0235,"Patrimonio y cultura: guia, catedral sal"
+2,9,interesante,0.0234,"Patrimonio y cultura: guia, catedral sal"
+2,10,turistico,0.0225,"Patrimonio y cultura: guia, catedral sal"
+2,11,valer_pena,0.0196,"Patrimonio y cultura: guia, catedral sal"
+2,12,visita,0.0179,"Patrimonio y cultura: guia, catedral sal"
+2,13,mina_sal,0.0178,"Patrimonio y cultura: guia, catedral sal"
+2,14,lleno,0.0142,"Patrimonio y cultura: guia, catedral sal"
+2,15,tren,0.0134,"Patrimonio y cultura: guia, catedral sal"
+3,1,animal,0.0846,animal / cuidado / zoologico
+3,2,cuidado,0.053,animal / cuidado / zoologico
+3,3,zoologico,0.0353,animal / cuidado / zoologico
+3,4,atencion,0.0349,animal / cuidado / zoologico
+3,5,familia,0.0248,animal / cuidado / zoologico
+3,6,personal,0.0215,animal / cuidado / zoologico
+3,7,guia,0.0207,animal / cuidado / zoologico
+3,8,amable,0.0201,animal / cuidado / zoologico
+3,9,recorrido,0.0199,animal / cuidado / zoologico
+3,10,servicio,0.018,animal / cuidado / zoologico
+3,11,actividad,0.0177,animal / cuidado / zoologico
+3,12,limpio,0.0175,animal / cuidado / zoologico
+3,13,organizado,0.017,animal / cuidado / zoologico
+3,14,variedad,0.015,animal / cuidado / zoologico
+3,15,atraccion,0.0149,animal / cuidado / zoologico
+4,1,plan,0.0494,plan / familia / facil
+4,2,familia,0.0467,plan / familia / facil
+4,3,entrada,0.0249,plan / familia / facil
+4,4,disfrutar,0.0238,plan / familia / facil
+4,5,valer_pena,0.0211,plan / familia / facil
+4,6,hora,0.0205,plan / familia / facil
+4,7,parqueadero,0.0185,plan / familia / facil
+4,8,amigo,0.0182,plan / familia / facil
+4,9,ingreso,0.0165,plan / familia / facil
+4,10,facil,0.0156,plan / familia / facil
+4,11,carro,0.0153,plan / familia / facil
+4,12,pesos,0.0134,plan / familia / facil
+4,13,familiar,0.0129,plan / familia / facil
+4,14,caminata,0.012,plan / familia / facil
+4,15,cobrar,0.0113,plan / familia / facil
+5,1,vista,0.0471,"Paisaje y naturaleza: vista, obra"
+5,2,paisaje,0.0281,"Paisaje y naturaleza: vista, obra"
+5,3,clima,0.0251,"Paisaje y naturaleza: vista, obra"
+5,4,foto,0.0238,"Paisaje y naturaleza: vista, obra"
+5,5,pueblo,0.0228,"Paisaje y naturaleza: vista, obra"
+5,6,camino,0.0206,"Paisaje y naturaleza: vista, obra"
+5,7,caminata,0.0183,"Paisaje y naturaleza: vista, obra"
+5,8,caminar,0.0183,"Paisaje y naturaleza: vista, obra"
+5,9,cascada,0.0169,"Paisaje y naturaleza: vista, obra"
+5,10,embalse,0.0168,"Paisaje y naturaleza: vista, obra"
+5,11,sendero,0.0159,"Paisaje y naturaleza: vista, obra"
+5,12,obra,0.0156,"Paisaje y naturaleza: vista, obra"
+5,13,ingenieria,0.0125,"Paisaje y naturaleza: vista, obra"
+5,14,bajar,0.0121,"Paisaje y naturaleza: vista, obra"
+5,15,vivir,0.0115,"Paisaje y naturaleza: vista, obra"
+6,1,tranquilo,0.0464,limpio / tranquilo / colonial
+6,2,limpio,0.0427,limpio / tranquilo / colonial
+6,3,historia,0.0296,limpio / tranquilo / colonial
+6,4,lleno,0.0255,limpio / tranquilo / colonial
+6,5,ciudad,0.0212,limpio / tranquilo / colonial
+6,6,amable,0.0206,limpio / tranquilo / colonial
+6,7,colonial,0.0203,limpio / tranquilo / colonial
+6,8,organizado,0.0201,limpio / tranquilo / colonial
+6,9,semana,0.0164,limpio / tranquilo / colonial
+6,10,restaurante,0.0163,limpio / tranquilo / colonial
+6,11,artesania,0.0149,limpio / tranquilo / colonial
+6,12,compartir_familia,0.0137,limpio / tranquilo / colonial
+6,13,disfrutar,0.0131,limpio / tranquilo / colonial
+6,14,zona,0.0126,limpio / tranquilo / colonial
+6,15,cultura,0.0125,limpio / tranquilo / colonial
+7,1,parque,0.0679,naturaleza / mejorar / parque
+7,2,naturaleza,0.067,naturaleza / mejorar / parque
+7,3,agua,0.0408,naturaleza / mejorar / parque
+7,4,vida,0.0309,naturaleza / mejorar / parque
+7,5,mejorar,0.0296,naturaleza / mejorar / parque
+7,6,tranquilo,0.0226,naturaleza / mejorar / parque
+7,7,imponente,0.0204,naturaleza / mejorar / parque
+7,8,paso,0.0175,naturaleza / mejorar / parque
+7,9,tallado,0.0151,naturaleza / mejorar / parque
+7,10,iglesia,0.0137,naturaleza / mejorar / parque
+7,11,disfrutar,0.013,naturaleza / mejorar / parque
+7,12,descansar,0.0129,naturaleza / mejorar / parque
+7,13,metro,0.0118,naturaleza / mejorar / parque
+7,14,cuidar,0.0116,naturaleza / mejorar / parque
+7,15,fuente,0.011,naturaleza / mejorar / parque
+8,1,tiempo,0.0363,tiempo / escultura / perder
+8,2,via,0.0261,tiempo / escultura / perder
+8,3,acogedor,0.0214,tiempo / escultura / perder
+8,4,pequeño,0.0213,tiempo / escultura / perder
+8,5,perder,0.0191,tiempo / escultura / perder
+8,6,parque,0.0176,tiempo / escultura / perder
+8,7,escultura,0.0168,tiempo / escultura / perder
+8,8,caminar,0.0155,tiempo / escultura / perder
+8,9,calle,0.0149,tiempo / escultura / perder
+8,10,magico,0.0146,tiempo / escultura / perder
+8,11,vender,0.0146,tiempo / escultura / perder
+8,12,recomendable,0.0141,tiempo / escultura / perder
+8,13,camino,0.0131,tiempo / escultura / perder
+8,14,mistico,0.0131,tiempo / escultura / perder
+8,15,opcion,0.013,tiempo / escultura / perder
+9,1,pueblo,0.1069,pueblo / atractivo / laguna
+9,2,laguna,0.0278,pueblo / atractivo / laguna
+9,3,tranquilo,0.0241,pueblo / atractivo / laguna
+9,4,historia,0.0206,pueblo / atractivo / laguna
+9,5,pequeño,0.018,pueblo / atractivo / laguna
+9,6,atractivo,0.0139,pueblo / atractivo / laguna
+9,7,parque,0.0139,pueblo / atractivo / laguna
+9,8,rodeado,0.0138,pueblo / atractivo / laguna
+9,9,ambiente,0.0137,pueblo / atractivo / laguna
+9,10,historico,0.0136,pueblo / atractivo / laguna
+9,11,casa,0.0128,pueblo / atractivo / laguna
+9,12,acogedor,0.0127,pueblo / atractivo / laguna
+9,13,plaza,0.0127,pueblo / atractivo / laguna
+9,14,mina_sal,0.0122,pueblo / atractivo / laguna
+9,15,naturaleza,0.0121,pueblo / atractivo / laguna

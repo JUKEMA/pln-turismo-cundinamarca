@@ -1,0 +1,105 @@
+nivel,grupo,tema,n_resenas_tema,n_oraciones,n_resenas_grupo,pct_resenas,ic95_inf,ic95_sup
+provincia,Sabana Centro,Vías y acceso,34,34,2127,0.016,0.0115,0.0223
+provincia,Sabana Centro,Precios y cobros,32,33,2127,0.015,0.0107,0.0212
+provincia,Sabana Centro,Atención y servicio,16,16,2127,0.0075,0.0046,0.0122
+provincia,Sabana Centro,"Parqueadero, filas y aglomeración",19,19,2127,0.0089,0.0057,0.0139
+provincia,Sabana Centro,Limpieza y mantenimiento,17,17,2127,0.008,0.005,0.0128
+provincia,Sabana Centro,Seguridad,5,5,2127,0.0024,0.001,0.0055
+provincia,Sabana Centro,Infraestructura y comodidad,7,8,2127,0.0033,0.0016,0.0068
+provincia,Sabana Centro,Horarios y restricciones,20,20,2127,0.0094,0.0061,0.0145
+provincia,Sabana Centro,Comida y gastronomía,4,4,2127,0.0019,0.0007,0.0048
+provincia,Sabana Centro,Ruido y ambiente,1,1,2127,0.0005,0.0001,0.0027
+provincia,Sabana Centro,Obras y diseño del espacio,0,0,2127,0.0,0.0,0.0018
+provincia,Sabana Centro,Bienestar animal,0,0,2127,0.0,0.0,0.0018
+provincia,Sabana Centro,Sin tema identificado,106,110,2127,0.0498,0.0414,0.0599
+provincia,Tequendama,Vías y acceso,23,23,1163,0.0198,0.0132,0.0295
+provincia,Tequendama,Precios y cobros,11,11,1163,0.0095,0.0053,0.0169
+provincia,Tequendama,Atención y servicio,16,17,1163,0.0138,0.0085,0.0222
+provincia,Tequendama,"Parqueadero, filas y aglomeración",9,9,1163,0.0077,0.0041,0.0146
+provincia,Tequendama,Limpieza y mantenimiento,38,40,1163,0.0327,0.0239,0.0445
+provincia,Tequendama,Seguridad,5,5,1163,0.0043,0.0018,0.01
+provincia,Tequendama,Infraestructura y comodidad,16,16,1163,0.0138,0.0085,0.0222
+provincia,Tequendama,Horarios y restricciones,7,7,1163,0.006,0.0029,0.0124
+provincia,Tequendama,Comida y gastronomía,10,10,1163,0.0086,0.0047,0.0158
+provincia,Tequendama,Ruido y ambiente,6,6,1163,0.0052,0.0024,0.0112
+provincia,Tequendama,Obras y diseño del espacio,4,4,1163,0.0034,0.0013,0.0088
+provincia,Tequendama,Bienestar animal,0,0,1163,0.0,0.0,0.0033
+provincia,Tequendama,Sin tema identificado,62,68,1163,0.0533,0.0418,0.0678
+municipio,Guatavita,Vías y acceso,24,24,1247,0.0192,0.013,0.0285
+municipio,Guatavita,Precios y cobros,23,24,1247,0.0184,0.0123,0.0275
+municipio,Guatavita,Atención y servicio,10,10,1247,0.008,0.0044,0.0147
+municipio,Guatavita,"Parqueadero, filas y aglomeración",15,15,1247,0.012,0.0073,0.0198
+municipio,Guatavita,Limpieza y mantenimiento,10,10,1247,0.008,0.0044,0.0147
+municipio,Guatavita,Seguridad,4,4,1247,0.0032,0.0012,0.0082
+municipio,Guatavita,Infraestructura y comodidad,3,3,1247,0.0024,0.0008,0.007
+municipio,Guatavita,Horarios y restricciones,17,17,1247,0.0136,0.0085,0.0217
+municipio,Guatavita,Comida y gastronomía,4,4,1247,0.0032,0.0012,0.0082
+municipio,Guatavita,Ruido y ambiente,0,0,1247,0.0,-0.0,0.0031
+municipio,Guatavita,Obras y diseño del espacio,0,0,1247,0.0,-0.0,0.0031
+municipio,Guatavita,Bienestar animal,0,0,1247,0.0,-0.0,0.0031
+municipio,Guatavita,Sin tema identificado,55,56,1247,0.0441,0.034,0.057
+municipio,Zipaquirá,Vías y acceso,5,5,572,0.0087,0.0037,0.0203
+municipio,Zipaquirá,Precios y cobros,8,8,572,0.014,0.0071,0.0274
+municipio,Zipaquirá,Atención y servicio,4,4,572,0.007,0.0027,0.0178
+municipio,Zipaquirá,"Parqueadero, filas y aglomeración",3,3,572,0.0052,0.0018,0.0153
+municipio,Zipaquirá,Limpieza y mantenimiento,3,3,572,0.0052,0.0018,0.0153
+municipio,Zipaquirá,Seguridad,0,0,572,0.0,0.0,0.0067
+municipio,Zipaquirá,Infraestructura y comodidad,2,3,572,0.0035,0.001,0.0127
+municipio,Zipaquirá,Horarios y restricciones,2,2,572,0.0035,0.001,0.0127
+municipio,Zipaquirá,Comida y gastronomía,0,0,572,0.0,0.0,0.0067
+municipio,Zipaquirá,Ruido y ambiente,0,0,572,0.0,0.0,0.0067
+municipio,Zipaquirá,Obras y diseño del espacio,0,0,572,0.0,0.0,0.0067
+municipio,Zipaquirá,Bienestar animal,0,0,572,0.0,0.0,0.0067
+municipio,Zipaquirá,Sin tema identificado,38,39,572,0.0664,0.0488,0.0899
+municipio,La Mesa,Vías y acceso,13,13,567,0.0229,0.0134,0.0388
+municipio,La Mesa,Precios y cobros,7,7,567,0.0123,0.006,0.0253
+municipio,La Mesa,Atención y servicio,9,10,567,0.0159,0.0084,0.0299
+municipio,La Mesa,"Parqueadero, filas y aglomeración",6,6,567,0.0106,0.0049,0.0229
+municipio,La Mesa,Limpieza y mantenimiento,22,24,567,0.0388,0.0258,0.058
+municipio,La Mesa,Seguridad,4,4,567,0.0071,0.0027,0.018
+municipio,La Mesa,Infraestructura y comodidad,13,13,567,0.0229,0.0134,0.0388
+municipio,La Mesa,Horarios y restricciones,5,5,567,0.0088,0.0038,0.0205
+municipio,La Mesa,Comida y gastronomía,6,6,567,0.0106,0.0049,0.0229
+municipio,La Mesa,Ruido y ambiente,4,4,567,0.0071,0.0027,0.018
+municipio,La Mesa,Obras y diseño del espacio,0,0,567,0.0,0.0,0.0067
+municipio,La Mesa,Bienestar animal,0,0,567,0.0,0.0,0.0067
+municipio,La Mesa,Sin tema identificado,27,28,567,0.0476,0.0329,0.0684
+municipio,San Antonio del Tequendama,Vías y acceso,4,4,344,0.0116,0.0045,0.0295
+municipio,San Antonio del Tequendama,Precios y cobros,4,4,344,0.0116,0.0045,0.0295
+municipio,San Antonio del Tequendama,Atención y servicio,3,3,344,0.0087,0.003,0.0253
+municipio,San Antonio del Tequendama,"Parqueadero, filas y aglomeración",3,3,344,0.0087,0.003,0.0253
+municipio,San Antonio del Tequendama,Limpieza y mantenimiento,8,8,344,0.0233,0.0118,0.0452
+municipio,San Antonio del Tequendama,Seguridad,1,1,344,0.0029,0.0005,0.0163
+municipio,San Antonio del Tequendama,Infraestructura y comodidad,1,1,344,0.0029,0.0005,0.0163
+municipio,San Antonio del Tequendama,Horarios y restricciones,1,1,344,0.0029,0.0005,0.0163
+municipio,San Antonio del Tequendama,Comida y gastronomía,4,4,344,0.0116,0.0045,0.0295
+municipio,San Antonio del Tequendama,Ruido y ambiente,0,0,344,0.0,0.0,0.011
+municipio,San Antonio del Tequendama,Obras y diseño del espacio,0,0,344,0.0,0.0,0.011
+municipio,San Antonio del Tequendama,Bienestar animal,0,0,344,0.0,0.0,0.011
+municipio,San Antonio del Tequendama,Sin tema identificado,24,28,344,0.0698,0.0473,0.1017
+municipio,Nemocón,Vías y acceso,5,5,308,0.0162,0.007,0.0374
+municipio,Nemocón,Precios y cobros,1,1,308,0.0032,0.0006,0.0182
+municipio,Nemocón,Atención y servicio,2,2,308,0.0065,0.0018,0.0234
+municipio,Nemocón,"Parqueadero, filas y aglomeración",1,1,308,0.0032,0.0006,0.0182
+municipio,Nemocón,Limpieza y mantenimiento,4,4,308,0.013,0.0051,0.0329
+municipio,Nemocón,Seguridad,1,1,308,0.0032,0.0006,0.0182
+municipio,Nemocón,Infraestructura y comodidad,2,2,308,0.0065,0.0018,0.0234
+municipio,Nemocón,Horarios y restricciones,1,1,308,0.0032,0.0006,0.0182
+municipio,Nemocón,Comida y gastronomía,0,0,308,0.0,0.0,0.0123
+municipio,Nemocón,Ruido y ambiente,1,1,308,0.0032,0.0006,0.0182
+municipio,Nemocón,Obras y diseño del espacio,0,0,308,0.0,0.0,0.0123
+municipio,Nemocón,Bienestar animal,0,0,308,0.0,0.0,0.0123
+municipio,Nemocón,Sin tema identificado,13,15,308,0.0422,0.0248,0.0709
+municipio,Cachipay,Vías y acceso,6,6,252,0.0238,0.011,0.051
+municipio,Cachipay,Precios y cobros,0,0,252,0.0,-0.0,0.015
+municipio,Cachipay,Atención y servicio,4,4,252,0.0159,0.0062,0.0401
+municipio,Cachipay,"Parqueadero, filas y aglomeración",0,0,252,0.0,-0.0,0.015
+municipio,Cachipay,Limpieza y mantenimiento,8,8,252,0.0317,0.0162,0.0614
+municipio,Cachipay,Seguridad,0,0,252,0.0,-0.0,0.015
+municipio,Cachipay,Infraestructura y comodidad,2,2,252,0.0079,0.0022,0.0285
+municipio,Cachipay,Horarios y restricciones,1,1,252,0.004,0.0007,0.0221
+municipio,Cachipay,Comida y gastronomía,0,0,252,0.0,-0.0,0.015
+municipio,Cachipay,Ruido y ambiente,2,2,252,0.0079,0.0022,0.0285
+municipio,Cachipay,Obras y diseño del espacio,4,4,252,0.0159,0.0062,0.0401
+municipio,Cachipay,Bienestar animal,0,0,252,0.0,-0.0,0.015
+municipio,Cachipay,Sin tema identificado,11,12,252,0.0437,0.0245,0.0765

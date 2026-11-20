@@ -1,0 +1,71 @@
+{
+  "fecha_ejecucion": "2026-11-20 09:02:28.059790",
+  "n_resenas": 3290,
+  "n_oraciones": 5597,
+  "k_lda": 10,
+  "coherencia_cv": {
+    "3": 0.324,
+    "4": 0.343,
+    "5": 0.341,
+    "6": 0.332,
+    "7": 0.283,
+    "8": 0.332,
+    "9": 0.343,
+    "10": 0.366,
+    "11": 0.348,
+    "12": 0.335
+  },
+  "metodo_sentimiento": "pysentimiento (por oración)",
+  "etiquetas_topicos": {
+    "0": "comprar / religioso / minero",
+    "1": "luz / tranquilo / sentir",
+    "2": "Patrimonio y cultura: guia, catedral sal",
+    "3": "animal / cuidado / zoologico",
+    "4": "plan / familia / facil",
+    "5": "Paisaje y naturaleza: vista, obra",
+    "6": "limpio / tranquilo / colonial",
+    "7": "naturaleza / mejorar / parque",
+    "8": "tiempo / escultura / perder",
+    "9": "pueblo / atractivo / laguna"
+  },
+  "config": {
+    "DATA_DIR": "datos",
+    "OUT_DIR": "salidas",
+    "SEED": 42,
+    "RNT_ESTADOS_VALIDOS": [
+      "ACTIVO"
+    ],
+    "MIN_CARACTERES": 15,
+    "MIN_PALABRAS": 3,
+    "FILTRAR_IDIOMA": true,
+    "MIN_RESENAS_POR_MUNICIPIO": 200,
+    "SPACY_MODELO": "es_core_news_md",
+    "REMOVER_TOPONIMOS": true,
+    "USAR_BIGRAMAS": true,
+    "QUITAR_ELOGIOS": true,
+    "SENT_BATCH": 32,
+    "CHUNK_CHARS": 350,
+    "UMBRAL_SENT": 0.25,
+    "REUSAR_CACHE": true,
+    "N_VALIDACION_AUTO": 600,
+    "N_VALIDACION_MANUAL": 120,
+    "MIN_CHARS_ORACION": 20,
+    "UMBRAL_P_NEG": 0.6,
+    "ALERTA_MIN_APARICIONES": 8,
+    "ALERTA_MIN_APARICIONES_MUN": 4,
+    "ALERTA_MIN_NEG": 15,
+    "FECHA_EXTRACCION": "2026-11-20",
+    "LDA_K_MIN": 3,
+    "LDA_K_MAX": 12,
+    "LDA_K_FIJO": null,
+    "LDA_PASSES": 10,
+    "LDA_MIN_TOKENS": 2
+  },
+  "versiones": {
+    "python": "3.13.16",
+    "pandas": "2.2.3",
+    "spacy": "3.8.18",
+    "sklearn": "1.6.1",
+    "gensim": "4.4.0"
+  }
+}

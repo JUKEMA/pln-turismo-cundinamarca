@@ -1,0 +1,26 @@
+provincia,termino,n_oraciones_neg,pct_oraciones_neg,lift,ejemplo
+Tequendama,malo,11,0.062,105.32,"Realmente el servicio desde que llegamos fue muy malo, nos tiraban la comida en la mesa, como si no se estuviera pagando, los guías nos gritaban y fueron descortés con varios compa"
+Tequendama,basura,13,0.073,17.55,"Lugar natura y corto camino, han dejado mucha basura, es una lastima"
+Tequendama,dificil,8,0.045,8.78,"La llegada hasta las cascadas difícil, poco apto para mujeres embarazadas, o personas de mucha edad poco espacio para compartir falta mas atención de la alcaldía en acceso"
+Tequendama,via,9,0.051,5.49,La atención en una panadería que queda por la vía por parte de un trabajador hacía la clientela deja mucho que desear.
+Tequendama,camino,14,0.079,4.88,"Lugar natura y corto camino, han dejado mucha basura, es una lastima"
+Tequendama,niño,9,0.051,3.13,"desafortunadamente los turistas lo deterioran, cerca a la tarima huele horrible y en la fuente han dañado las materas que la rodean aveces cuando está en funcionamiento la fuente l"
+Tequendama,cascada,10,0.056,2.1,"La llegada hasta las cascadas difícil, poco apto para mujeres embarazadas, o personas de mucha edad poco espacio para compartir falta mas atención de la alcaldía en acceso"
+Tequendama,pequeño,8,0.045,1.97,"El parque en si como otro pueblo,tienen variedad en gastronomía,no recomiendo ir al restaurante LOR SAN,la atención pésima ya que no tienen control sobre los pedidos,la comida fría"
+Tequendama,comida,8,0.045,1.44,"Realmente el servicio desde que llegamos fue muy malo, nos tiraban la comida en la mesa, como si no se estuviera pagando, los guías nos gritaban y fueron descortés con varios compa"
+Tequendama,animal,10,0.056,0.95,"sin embargo, esta descuidado y donde hay monos abunda basura, eso no es tan bien visto de un lugar que recupera animales para protección y recuperación."
+Tequendama,parque,9,0.051,0.72,Muy mala la apariencia del parque bastante habitante de calle durmiendo en las sillas y andenes y el sitio donde es la fuente muy sucio el agua huele maluco prácticamente es esa ag
+Sabana Centro,carretera,8,0.035,12.78,Lastimosamente la carretera para llegar al pueblo está en pésimo estado.
+Sabana Centro,faltar,8,0.035,10.04,Solo falta que adecuen la carretera para llegar a la laguna está en muy mal estado.
+Sabana Centro,cobrar,8,0.035,8.78,"Que vá, cobran muy caro."
+Sabana Centro,carro,12,0.052,8.12,"No vayan, los carros se encuñetan.varios dañados, la carretera es un lodazal, es muy angosta y no colocan alguien para controlar y dar paso a los vehículos, ingresan como 50 person"
+Sabana Centro,via,10,0.043,6.61,La laguna y sus alrededores naturales son preciosos lo feo es la llegada a ese lugar que siendo tan turistico haya aun una via tan mal cuidada y dañada y viendo los pueblos aledaño
+Sabana Centro,subir,9,0.039,5.78,"Fatal la desorganización en la represa, no hay en dónde pasar un rato, gran parte del terreno es parqueadero y la otra Colina está congestionada con caballos subiendo y bajando, co"
+Sabana Centro,entrar,8,0.035,3.6,"Las vías estan en mal estado, adicional no dejan entrar con mascotas, eviten llevar sus perritos tanto viaje pa nada"
+Sabana Centro,hora,8,0.035,2.07,"No fue grato ir a Guatavita,entre a siete restaurantes porque en todos los que entre la atención fue pésima,nos sentamos, pedimos, después de una hora esperando nos decían...se aca"
+Sabana Centro,parque,8,0.035,2.07,"pero el señor que cuida los carros se adueñó del parque , es grosero"
+Sabana Centro,entrada,10,0.043,1.87,pero la laguna se me hace muy costosa la entrada para ser un sitio ecológico y ansestral.
+Sabana Centro,pueblo,16,0.07,1.13,Lo más triste es la poca información sobre los pueblos indígenas que habitaban el lugar antes de la llegada de los
+Sabana Centro,guia,14,0.061,0.81,"El lugar es lindo pero El personal desde la entrada de la mina es muy antipático, tuvimos además una experiencia pesima con Una guía."
+Sabana Centro,recorrido,10,0.043,0.78,"El recorrido me pareció un poco aburrido, ya que las explicaciones durante el trayecto no eran de mucho interés para varios de los visitantes y no se podía avanzar hasta que termin"
+Sabana Centro,historia,8,0.035,0.43,"La historia del antiguo Guatavita muy triste, ojalá no hubiera sido necesario inundarlo."

@@ -1,0 +1,121 @@
+municipio,termino,tfidf
+Cachipay,astronomico,0.15601469188195904
+Cachipay,remodelar,0.13335567895206937
+Cachipay,observatorio,0.13335567895206937
+Cachipay,feria,0.10935356442012957
+Cachipay,observacion,0.10095703613659383
+Cachipay,cima,0.09617033750775134
+Cachipay,olvidado,0.09461984049754432
+Cachipay,luna,0.09461984049754432
+Cachipay,telescopio,0.09461984049754432
+Cachipay,maximiliano,0.09461984049754432
+Cachipay,lujo,0.09461984049754432
+Cachipay,noche,0.09255714299339518
+Cachipay,presentacion,0.08119360711906454
+Cachipay,cielo,0.08119360711906454
+Cachipay,caminata_ecologico,0.08119360711906454
+Cachipay,arreglar,0.08119360711906454
+Cachipay,arbol,0.07911447631538915
+Cachipay,ejercicio,0.07758962276356839
+Cachipay,esquina,0.07758962276356839
+Cachipay,aseo,0.06957675252146991
+Guatavita,laguna,0.11266267951584324
+Guatavita,embalse,0.09652183898310336
+Guatavita,leyenda_dorado,0.0764258018187403
+Guatavita,indigen,0.07564729278340267
+Guatavita,represa,0.07215247192800854
+Guatavita,acampar,0.06656636931292209
+Guatavita,muisca,0.06443698061922924
+Guatavita,blanco,0.06328257525636055
+Guatavita,navegar,0.06041155141978366
+Guatavita,orilla,0.06041155141978366
+Guatavita,lancha,0.05848427565548009
+Guatavita,lago,0.05848427565548009
+Guatavita,cacique,0.05848427565548009
+Guatavita,subir,0.05694340400054834
+Guatavita,costumbre,0.05632976465437727
+Guatavita,club_nautico,0.05632976465437727
+Guatavita,antepasado,0.05632976465437727
+Guatavita,escalon,0.05632976465437727
+Guatavita,artesania,0.05546328368108017
+Guatavita,reserva,0.05458537508170968
+La Mesa,cascada,0.11661398111775535
+La Mesa,bajada,0.08683759244895961
+La Mesa,cascado,0.08683759244895961
+La Mesa,caida,0.07857189509643095
+La Mesa,senderismo,0.07393164707024773
+La Mesa,divertir,0.07393164707024773
+La Mesa,circuito,0.0735838959414724
+La Mesa,cholao,0.0735838959414724
+La Mesa,empinado,0.0735838959414724
+La Mesa,raspado,0.0735838959414724
+La Mesa,divertido,0.0724751633918275
+La Mesa,extremo,0.07239082727152128
+La Mesa,descenso,0.06812032879531905
+La Mesa,terrenal,0.06729144047369737
+La Mesa,retar,0.06729144047369737
+La Mesa,exigente,0.06455579543803992
+La Mesa,basura,0.06311312944998439
+La Mesa,aventura,0.062033438993652906
+La Mesa,peligroso,0.06033984730423097
+La Mesa,dificultad,0.06033984730423097
+Nemocón,mina,0.15984408337295167
+Nemocón,mina_sal,0.1541167176498233
+Nemocón,desierto,0.10517056446909823
+Nemocón,fosil,0.10517056446909823
+Nemocón,museo,0.09836293880493245
+Nemocón,sal,0.09670834175558514
+Nemocón,tatacoita,0.08989596980494877
+Nemocón,minero,0.08613355012163317
+Nemocón,pelicula,0.08613355012163317
+Nemocón,explicacion,0.08031382232651459
+Nemocón,guiado,0.07967352179016397
+Nemocón,atrapado,0.07905847241991805
+Nemocón,conocimiento,0.0738099083567054
+Nemocón,tunel,0.073715981219733
+Nemocón,ingresar,0.07281088825853674
+Nemocón,explicar,0.07145519234299345
+Nemocón,espejo_agua,0.06805582441970334
+Nemocón,conservado,0.0658385331509316
+Nemocón,postre,0.0658385331509316
+Nemocón,artesania,0.0658385331509316
+San Antonio del Tequendama,zoologico,0.17379542134962417
+San Antonio del Tequendama,animalito,0.13157809670679477
+San Antonio del Tequendama,animal,0.12378456234627691
+San Antonio del Tequendama,rescatado,0.12285835377347394
+San Antonio del Tequendama,felino,0.11941220524666267
+San Antonio del Tequendama,mono,0.10651584060724575
+San Antonio del Tequendama,fundacion,0.10651584060724575
+San Antonio del Tequendama,rescatar,0.10332544404721718
+San Antonio del Tequendama,santandercito,0.10094218478911288
+San Antonio del Tequendama,tigre,0.10094218478911288
+San Antonio del Tequendama,habitat,0.10094218478911288
+San Antonio del Tequendama,jaula,0.09434994914711363
+San Antonio del Tequendama,mariposario,0.09434994914711363
+San Antonio del Tequendama,zoo,0.09434994914711363
+San Antonio del Tequendama,fauna,0.09130364072474435
+San Antonio del Tequendama,salto,0.08734451302816419
+San Antonio del Tequendama,leon,0.08628170478740664
+San Antonio del Tequendama,insecto,0.08628170478740664
+San Antonio del Tequendama,sur,0.08628170478740664
+San Antonio del Tequendama,especie,0.08345075095142343
+Zipaquirá,mina,0.09591426943964178
+Zipaquirá,catedral,0.08849089358027348
+Zipaquirá,catedral_sal,0.0867756539670619
+Zipaquirá,mina_sal,0.08605323869333113
+Zipaquirá,audio,0.08441662603722919
+Zipaquirá,cruz,0.07744796019670964
+Zipaquirá,sal,0.07639422533816342
+Zipaquirá,impresionante,0.0747956550238047
+Zipaquirá,paquete,0.07136024587838209
+Zipaquirá,tunel,0.06922284094710375
+Zipaquirá,viacrucis,0.06762617733650193
+Zipaquirá,boleto,0.06762617733650193
+Zipaquirá,sorprender,0.06749448053024495
+Zipaquirá,subterraneo,0.06749448053024495
+Zipaquirá,ingenieria,0.06749448053024495
+Zipaquirá,basico,0.06560127589658969
+Zipaquirá,escultura,0.06560127589658969
+Zipaquirá,tour,0.0642838615232708
+Zipaquirá,minero,0.0642838615232708
+Zipaquirá,arte,0.06350843526973095

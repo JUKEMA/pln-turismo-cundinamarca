@@ -1,0 +1,13 @@
+tema,pct_sabana_centro,pct_tequendama,diferencia_pp,n_sabana_centro,n_tequendama,p_valor,p_ajustada,significativa,provincia_mayor,solidez,accion_sugerida
+Limpieza y mantenimiento,0.008,0.0327,-2.47,17,38,0.0,0.0,True,Tequendama,suficiente,"En Tequendama: reforzar manejo de residuos, baños y mantenimiento de espacios públicos"
+Infraestructura y comodidad,0.0033,0.0138,-1.05,7,16,0.0014,0.017,True,Tequendama,suficiente,"En Tequendama: mejorar sombra, asientos, accesibilidad y señalización interna"
+Comida y gastronomía,0.0019,0.0086,-0.67,4,10,0.0086,0.1037,False,Tequendama,baja (pocas reseñas),Sin diferencia significativa entre provincias
+Ruido y ambiente,0.0005,0.0052,-0.47,1,6,0.0095,0.1135,False,Tequendama,baja (pocas reseñas),Sin diferencia significativa entre provincias
+Obras y diseño del espacio,0.0,0.0034,-0.34,0,4,0.0156,0.1868,False,Tequendama,baja (pocas reseñas),Sin diferencia significativa entre provincias
+Atención y servicio,0.0075,0.0138,-0.62,16,16,0.0946,1.0,False,Tequendama,suficiente,Sin diferencia significativa entre provincias
+Precios y cobros,0.015,0.0095,0.56,32,11,0.2012,1.0,False,Sabana Centro,suficiente,Sin diferencia significativa entre provincias
+Seguridad,0.0024,0.0043,-0.19,5,5,0.3381,1.0,False,Tequendama,baja (pocas reseñas),Sin diferencia significativa entre provincias
+Horarios y restricciones,0.0094,0.006,0.34,20,7,0.419,1.0,False,Sabana Centro,suficiente,Sin diferencia significativa entre provincias
+Vías y acceso,0.016,0.0198,-0.38,34,23,0.4848,1.0,False,Tequendama,suficiente,Sin diferencia significativa entre provincias
+"Parqueadero, filas y aglomeración",0.0089,0.0077,0.12,19,9,0.8437,1.0,False,Sabana Centro,suficiente,Sin diferencia significativa entre provincias
+Bienestar animal,0.0,0.0,0.0,0,0,1.0,1.0,False,Tequendama,baja (pocas reseñas),Sin diferencia significativa entre provincias

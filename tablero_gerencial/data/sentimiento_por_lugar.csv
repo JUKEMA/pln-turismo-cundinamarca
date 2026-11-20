@@ -1,0 +1,18 @@
+municipio_nombre,atractivo_turistico,lugar_nombre,n,sent_medio,pct_negativo,pct_con_critica,muestra_pequena
+Cachipay,alto mohan,Alto del Mohán,46,0.647,0.13,0.109,True
+Cachipay,observatorio,Observatorio,18,0.842,0.0,0.0,True
+Cachipay,parque principal,Parque Principal,188,0.636,0.117,0.133,False
+Guatavita,embalse,Embalse,218,0.68,0.064,0.096,False
+Guatavita,laguna,Laguna,507,0.609,0.099,0.146,False
+Guatavita,parque principal,Parque Principal,522,0.811,0.025,0.046,False
+La Mesa,makute,Makute,219,0.796,0.068,0.073,False
+La Mesa,parque principal,Parque Principal,168,0.6,0.131,0.185,False
+La Mesa,salto monjas,Salto de las Monjas,180,0.474,0.128,0.2,False
+Nemocón,mina sal,Mina de sal,150,0.764,0.007,0.073,False
+Nemocón,parque principal,Parque Principal,158,0.674,0.07,0.095,False
+San Antonio del Tequendama,parque sanandrecito,Parque Sanandrecito,142,0.805,0.035,0.049,False
+San Antonio del Tequendama,salto tequendama,Salto del Tequendama,33,0.237,0.303,0.273,True
+San Antonio del Tequendama,zoologico santacruz,Zoológico Santacruz,169,0.652,0.083,0.148,False
+Zipaquirá,catedral,Catedral de Sal,458,0.67,0.048,0.12,False
+Zipaquirá,centro historico,Centro histórico,25,0.835,0.0,0.0,True
+Zipaquirá,plaza comuneros,Plaza de los Comuneros,89,0.756,0.034,0.022,False

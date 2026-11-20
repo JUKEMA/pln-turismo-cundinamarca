@@ -1,0 +1,42 @@
+municipio_nombre,termino,n_oraciones_neg,pct_oraciones_neg,lift,ejemplo
+Cachipay,via,4,0.114,13.83,pero las vías si están muy malditas dentro del pueblo
+Cachipay,parque,5,0.143,1.56,"Siempre está en obra, el parque igual que las calles que lo rodean son un desastre, que presentación para el turismo!!"
+Guatavita,angosta,4,0.029,35.43,"No vayan, los carros se encuñetan.varios dañados, la carretera es un lodazal, es muy angosta y no colocan alguien para controlar y dar paso a los vehículos, ingresan como 50 person"
+Guatavita,dinero,4,0.029,35.43,lastima que siendo un lugar tan turístico no tengan una buena organización y gracias a esto lo único que hicimos fue gastar dinero y
+Guatavita,llegada,4,0.029,35.43,La laguna y sus alrededores naturales son preciosos lo feo es la llegada a ese lugar que siendo tan turistico haya aun una via tan mal cuidada y dañada y viendo los pueblos aledaño
+Guatavita,malo,4,0.029,35.43,"Lo único malo que puedo denotar es que al ser un espacio público la naturaleza esta contaminada, con basura alrededor y con plantas"
+Guatavita,organizacion,4,0.029,17.72,lastima que siendo un lugar tan turístico no tengan una buena organización y gracias a esto lo único que hicimos fue gastar dinero y
+Guatavita,caro,4,0.029,14.17,"Que vá, cobran muy caro."
+Guatavita,faltar,7,0.051,12.6,Solo falta que adecuen la carretera para llegar a la laguna está en muy mal estado.
+Guatavita,privado,4,0.029,11.81,"Ilusionadamente fui a visitar el lugar a la 1 PM por que no alcanzamos antes y el lugar privado no dejo entrar por un aforo que no debía existir, perdimos el viaje y tiempo."
+Guatavita,cobrar,8,0.059,11.6,"Que vá, cobran muy caro."
+Guatavita,esperar,5,0.037,10.63,"No fue grato ir a Guatavita,entre a siete restaurantes porque en todos los que entre la atención fue pésima,nos sentamos, pedimos, después de una hora esperando nos decían...se aca"
+Guatavita,carretera,7,0.051,10.31,Solo falta que adecuen la carretera para llegar a la laguna está en muy mal estado.
+Guatavita,carro,11,0.081,10.01,"No vayan, los carros se encuñetan.varios dañados, la carretera es un lodazal, es muy angosta y no colocan alguien para controlar y dar paso a los vehículos, ingresan como 50 person"
+Guatavita,vehiculo,6,0.044,9.92,"No vayan, los carros se encuñetan.varios dañados, la carretera es un lodazal, es muy angosta y no colocan alguien para controlar y dar paso a los vehículos, ingresan como 50 person"
+Guatavita,permitir,5,0.037,9.45,"Hermoso lugar para un paseo de fin de semana, absurdamente no permiten llegar a la orilla del embalse en las cercanías del pueblo"
+Guatavita,camino,5,0.037,7.09,Lástima que el camino hasta llegar a la zona de parking esté en tan mal estado.
+La Mesa,malo,8,0.086,73.8,"Realmente el servicio desde que llegamos fue muy malo, nos tiraban la comida en la mesa, como si no se estuviera pagando, los guías nos gritaban y fueron descortés con varios compa"
+La Mesa,problema,4,0.043,41.0,"Ahora, el problema que tienen es la organización, porque en nuestro caso con mis amigos, nos querían obligar a hacer el circuito de agua, el cual por lo general siempre se deja de "
+La Mesa,empinado,4,0.043,20.5,pero tiene un tramo antes de llegar ya demasiado difícil y empinado.
+La Mesa,sucio,4,0.043,13.67,Muy mala la apariencia del parque bastante habitante de calle durmiendo en las sillas y andenes y el sitio donde es la fuente muy sucio el agua huele maluco prácticamente es esa ag
+La Mesa,basura,10,0.108,12.89,"desafortunadamente los turistas lo deterioran, cerca a la tarima huele horrible y en la fuente han dañado las materas que la rodean aveces cuando está en funcionamiento la fuente l"
+La Mesa,vehiculo,4,0.043,10.25,La decoración está muy bonita lo que no me gusta es q sigan castigando al turista quitándoles sus vehículos por q ellos no miran o no saben los sitios prohibidos.
+La Mesa,niño,6,0.065,9.57,"desafortunadamente los turistas lo deterioran, cerca a la tarima huele horrible y en la fuente han dañado las materas que la rodean aveces cuando está en funcionamiento la fuente l"
+La Mesa,dificil,7,0.075,7.29,"La llegada hasta las cascadas difícil, poco apto para mujeres embarazadas, o personas de mucha edad poco espacio para compartir falta mas atención de la alcaldía en acceso"
+La Mesa,fuente,4,0.043,6.83,Muy mala la apariencia del parque bastante habitante de calle durmiendo en las sillas y andenes y el sitio donde es la fuente muy sucio el agua huele maluco prácticamente es esa ag
+La Mesa,via,5,0.054,5.47,La atención en una panadería que queda por la vía por parte de un trabajador hacía la clientela deja mucho que desear.
+La Mesa,acceso,5,0.054,4.92,"La llegada hasta las cascadas difícil, poco apto para mujeres embarazadas, o personas de mucha edad poco espacio para compartir falta mas atención de la alcaldía en acceso"
+La Mesa,bajar,5,0.054,4.47,Tener cuidado por esta época ha llovido mucho los caminos están en mal estado y llegando a la cascada hay derrumbes no se puede bajar hasta la cascada
+La Mesa,camino,9,0.097,3.57,"Un lugar muy bonito un sendero en piedra puro camino real de la edad española, solamente no es un lugar para una persona mayor o con problemas de rodillas es pesadito"
+La Mesa,lleno,5,0.054,3.08,En días feriados ponen el parque horrible lleno de casetas y desorden .
+La Mesa,cuidado,4,0.043,2.73,Tener cuidado por esta época ha llovido mucho los caminos están en mal estado y llegando a la cascada hay derrumbes no se puede bajar hasta la cascada
+Nemocón,parque,5,0.167,4.59,"pero el señor que cuida los carros se adueñó del parque , es grosero"
+Nemocón,pueblo,5,0.167,2.07,Lastimosamente la carretera para llegar al pueblo está en pésimo estado.
+San Antonio del Tequendama,pequeño,5,0.102,2.5,"El parque en si como otro pueblo,tienen variedad en gastronomía,no recomiendo ir al restaurante LOR SAN,la atención pésima ya que no tienen control sobre los pedidos,la comida fría"
+San Antonio del Tequendama,animal,9,0.184,0.94,"sin embargo, esta descuidado y donde hay monos abunda basura, eso no es tan bien visto de un lugar que recupera animales para protección y recuperación."
+Zipaquirá,trafico,4,0.062,83.94,"El aspecto negativo es el tráfico vehicular tan denso que un trayecto corto, se convierte lento y pesado, tanto de ida como de vuelta."
+Zipaquirá,religioso,4,0.062,4.0,Además es aburrido tanto enfoque religioso.
+Zipaquirá,entrada,6,0.094,3.36,"El lugar es lindo pero El personal desde la entrada de la mina es muy antipático, tuvimos además una experiencia pesima con Una guía."
+Zipaquirá,mina,5,0.078,2.52,"El lugar es lindo pero El personal desde la entrada de la mina es muy antipático, tuvimos además una experiencia pesima con Una guía."
+Zipaquirá,guia,4,0.062,1.08,"El lugar es lindo pero El personal desde la entrada de la mina es muy antipático, tuvimos además una experiencia pesima con Una guía."
