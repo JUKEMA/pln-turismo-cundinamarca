@@ -48,8 +48,8 @@ N = met.n_resenas.sum()
 g_sent = (met.sent_medio * met.n_resenas).sum() / N
 g_neg = (met.pct_negativo * met.n_resenas).sum() / N
 g_crit = (met.pct_con_critica * met.n_resenas).sum() / N
-met["idx_riesgo"] = 100 * (0.5 * met.pct_negativo / g_neg + 0.5 * met.pct_con_critica / g_crit)
-met["prioridad"] = pd.cut(met.idx_riesgo, [-1, 90, 120, 1e9], labels=["Baja", "Media", "Alta"])
+met["idx_riesgo"] = 100 * (0.5 * met.pct_negativo / g_neg + 0.5 * met.pct_con_critica / g_crit) / 2
+met["prioridad"] = pd.cut(met.idx_riesgo, [-1, 45, 60, 1e9], labels=["Baja", "Media", "Alta"])
 met = met.sort_values("idx_riesgo", ascending=False).reset_index(drop=True)
 top_tema = (temas[temas.n_resenas_tema >= 1].sort_values("pct_resenas", ascending=False)
             .groupby("grupo").head(3))
@@ -104,11 +104,11 @@ with tab1:
         st.markdown(f"- {x}")
 
     st.subheader("Semáforo de prioridad por municipio")
-    st.caption("Índice de riesgo = promedio de % negativas y % con crítica, relativo al promedio global (100 = promedio).")
+    st.caption("Índice de riesgo = promedio de % negativas y % con crítica, relativo al promedio global (50 = promedio global; > 60 = riesgo alto).")
     fig = px.bar(met.sort_values("idx_riesgo"), x="idx_riesgo", y="municipio_nombre", color="prioridad",
                  color_discrete_map=COL, orientation="h", text=met.sort_values("idx_riesgo").idx_riesgo.round(0),
                  labels={"idx_riesgo": "Índice de riesgo", "municipio_nombre": "", "prioridad": "Prioridad"})
-    fig.add_vline(x=100, line_dash="dot", annotation_text="promedio global")
+    fig.add_vline(x=50, line_dash="dot", annotation_text="promedio global (50)")
     fig.update_layout(height=340, margin=dict(l=0, r=0, t=10, b=0))
     st.plotly_chart(fig, width='stretch')
 
