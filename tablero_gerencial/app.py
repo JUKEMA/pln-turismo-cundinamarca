@@ -48,8 +48,8 @@ N = met.n_resenas.sum()
 g_sent = (met.sent_medio * met.n_resenas).sum() / N
 g_neg = (met.pct_negativo * met.n_resenas).sum() / N
 g_crit = (met.pct_con_critica * met.n_resenas).sum() / N
-met["idx_riesgo"] = 100 * (0.5 * met.pct_negativo / g_neg + 0.5 * met.pct_con_critica / g_crit) / 2
-met["prioridad"] = pd.cut(met.idx_riesgo, [-1, 45, 60, 1e9], labels=["Baja", "Media", "Alta"])
+met["idx_riesgo"] = 100 * (0.5 * met.pct_negativo / g_neg + 0.5 * met.pct_con_critica / g_crit)
+met["prioridad"] = pd.cut(met.idx_riesgo, [-1, 90, 120, 1e9], labels=["Baja", "Media", "Alta"])
 met = met.sort_values("idx_riesgo", ascending=False).reset_index(drop=True)
 top_tema = (temas[temas.n_resenas_tema >= 1].sort_values("pct_resenas", ascending=False)
             .groupby("grupo").head(3))
